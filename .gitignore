@@ -11,6 +11,7 @@ env/
 # Output / test facepacks
 mock_graphics/
 output/
+backups/
 *.png
 config.xml
 
